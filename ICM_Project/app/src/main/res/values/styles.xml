@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LoggingButton" parent="TextAppearance.AppCompat">
+        <item name="android:layout_width">250dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Display1</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+    <string name="welcome_to_pomodoroua_style">This is an <u>underline</u>.</string>
+</resources>
