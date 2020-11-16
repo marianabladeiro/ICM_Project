@@ -53,7 +53,7 @@ public class addActivity extends Activity {
         bundle.putString("name", name_event);
         // set Fragmentclass Arguments
         CalendarFragment fragobj = new CalendarFragment();
-        fragobj.setArguments(bundle);
+
         finish();
         
     }

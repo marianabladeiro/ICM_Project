@@ -51,5 +51,12 @@
         app:layout_constraintTop_toBottomOf="@+id/calendar"
         tools:layout_editor_absoluteX="46dp" />
 
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="398dp"
+        android:id="@+id/fragment_show_events"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
 
