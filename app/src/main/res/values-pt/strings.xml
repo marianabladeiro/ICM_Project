@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PomodoroUA</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Temporizador</string>
+    <string name="title_calendar">Calendário</string>
+    <string name="upcoming_text">Próximas atividades: </string>
+    <string name="subjects_text">"Cadeiras: "</string>
+    <string name="timer_tv">Temporizador</string>
+    <string name="time_set">Definir tempo</string>
+    <string name="cancel">Cancelar</string>
+    <string name="time">Tempo:</string>
+
+    <!-- Welcome activity -->
+    <string name="welcome_to_pomodoroua">PomodoroUA</string>
+
+    <!-- Login activity -->
+    <string name="login_button_text">Login</string>
+    <string name="email_text">Email: </string>
+    <string name="password_text">Password: </string>
+    <string name="authenticate_button">Autenticar</string>
+
+    <!-- Settings activity -->
+    <string name="language_text">Linguagem:</string>
+    <string name="radio_english">Inglês</string>
+    <string name="radio_portugues">Português</string>
+    <string name="theme_text">Tema:</string>
+    <string name="radio_light">Dia</string>
+    <string name="radio_dark">Noite</string>
+    <string name="ok_button_text">Ok</string>
+    <string name="app_UA">Uma app feita para a Universidade de Aveiro</string>
+    <string name="new_event">Novo Evento</string>
+    <string name="cancelEvent">Cancelar</string>
+    <string name="saveEvent">Guardar</string>
+    <string name="titleEvent">Título</string>
+    <string name="locationEvent">Localização</string>
+    <string name="notesEvent">Notas</string>
+    <string name="choose_event_color">Escolher cor de evento:</string>
+    <string name="_14_00">14:00</string>
+    <string name="startEvent">Começar:</string>
+    <string name="endEvent">Acabar:</string>
+    <string name="edit_your_color_tags">Edita as tuas etiquetas</string>
+    <string name="loading">a carregar</string>
+    <string name="information">Informação</string>
+    <string name="yearCourse">Ano:</string>
+    <string name="semesterCourse">Semestre:</string>
+    <string name="responsibleCourse">Responsável:</string>
+    <string name="evaluationCourse">Avaliação</string>
+    <string name="examCourse">Exame:</string>
+    <string name="statisticsCourse">Estatísticas</string>
+    <string name="time_spent">Tempo gasto:</string>
+    <string name="set_timer">- Temporizador -</string>
+    <string name="write_note">- Notas -</string>
+    <string name="upcoming">Próximos</string>
+    <string name="startTimer">Iniciar</string>
+    <string name="stopTimer">Parar</string>
+    <string name="hour">hora</string>
+    <string name="min">min</string>
+    <string name="sec">seg</string>
+    <string name="saveNote">Guardar</string>
+    <string name="nameProfile">Nome:</string>
+    <string name="degreeProfile">Curso:</string>
+    <string name="personal_information">Informação Pessoal</string>
+    <string name="statistics">Comparar o tempo gasto</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_event">New Event</string>
+    <string name="cancelEvent">Cancel</string>
+    <string name="saveEvent">Save</string>
+    <string name="titleEvent">Title</string>
+    <string name="locationEvent">Location</string>
+    <string name="notesEvent">Notes</string>
+    <string name="choose_event_color">Choose event color:</string>
+    <string name="_14_00">14:00</string>
+    <string name="startEvent">Start:</string>
+    <string name="endEvent">End:</string>
+    <string name="edit_your_color_tags">Edit your color tags</string>
+    <string name="loading">loading</string>
+    <string name="information">Information</string>
+    <string name="yearCourse">Year:</string>
+    <string name="semesterCourse">Semester:</string>
+    <string name="responsibleCourse">Responsible:</string>
+    <string name="evaluationCourse">Evaluation</string>
+    <string name="examCourse">Exam:</string>
+    <string name="statisticsCourse">Statistics</string>
+    <string name="time_spent">Time Spent:</string>
+    <string name="set_timer">- Set Timer -</string>
+    <string name="write_note">- Notes -</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="startTimer">Start</string>
+    <string name="stopTimer">Stop</string>
+    <string name="hour">hour</string>
+    <string name="min">min</string>
+    <string name="sec">sec</string>
+    <string name="saveNote">Save</string>
+    <string name="nameProfile">Name:</string>
+    <string name="degreeProfile">Degree:</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="statistics">Comparing time spent</string>
+</resources>

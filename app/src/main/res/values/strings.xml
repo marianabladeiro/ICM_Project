@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">PomodoroUA</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Timer</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="upcoming_text">Upcoming activities: </string>
+    <string name="subjects_text">"Your subjects: "</string>
+    <string name="timer_tv">Timer</string>
+    <string name="time_set">Set time</string>
+    <string name="cancel">Cancel</string>
+    <string name="time">Time:</string>
+
+    <!-- Welcome activity -->
+    <string name="welcome_to_pomodoroua">PomodoroUA</string>
+
+    <!-- Login activity -->
+    <string name="login_button_text">Login</string>
+    <string name="email_text">Email: </string>
+    <string name="password_text">Password: </string>
+    <string name="authenticate_button">Authenticate</string>
+
+    <!-- Settings activity -->
+    <string name="language_text">Language:</string>
+    <string name="radio_english">English</string>
+    <string name="radio_portugues">Portuguese</string>
+    <string name="theme_text">Theme:</string>
+    <string name="radio_light">Light</string>
+    <string name="radio_dark">Dark</string>
+    <string name="ok_button_text">Ok</string>
+    <string name="app_UA">An app made for University of Aveiro</string>
+    <string name="new_event">New Event</string>
+    <string name="cancelEvent">Cancel</string>
+    <string name="saveEvent">Save</string>
+    <string name="titleEvent">Title</string>
+    <string name="locationEvent">Location</string>
+    <string name="notesEvent">Notes</string>
+    <string name="choose_event_color">Choose event color:</string>
+    <string name="_14_00">14:00</string>
+    <string name="startEvent">Start:</string>
+    <string name="endEvent">End:</string>
+    <string name="edit_your_color_tags">Edit your color tags</string>
+    <string name="loading">loading</string>
+    <string name="information">Information</string>
+    <string name="yearCourse">Year:</string>
+    <string name="semesterCourse">Semester:</string>
+    <string name="responsibleCourse">Responsible:</string>
+    <string name="evaluationCourse">Evaluation</string>
+    <string name="examCourse">Exam:</string>
+    <string name="statisticsCourse">Statistics</string>
+    <string name="time_spent">Time Spent:</string>
+    <string name="set_timer">- Set Timer -</string>
+    <string name="write_note">- Write Note -</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="startTimer">Start</string>
+    <string name="stopTimer">Stop</string>
+    <string name="hour">hour</string>
+    <string name="min">min</string>
+    <string name="sec">sec</string>
+    <string name="saveNote">Save</string>
+    <string name="nameProfile">Name:</string>
+    <string name="degreeProfile">Degree:</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="statistics">Statistics</string>
+</resources>
