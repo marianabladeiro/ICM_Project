@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.icm_project",
+  "applicationId": "com.example.ICM_Project",
   "variantName": "processDebugResources",
   "elements": [
     {
