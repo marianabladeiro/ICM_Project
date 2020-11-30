@@ -8,14 +8,14 @@
     <!-- Home -->
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.example.icm_project.ui.home.HomeFragment"
+        android:name="com.example.ICM_Project.ui.home.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <!-- Timer -->
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.example.icm_project.ui.timer.TimerFragment"
+        android:name="com.example.ICM_Project.ui.timer.TimerFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_timer" />
 
@@ -27,7 +27,7 @@
         tools:layout="@layout/fragment_calendar" />
     <fragment
         android:id="@+id/navigation_notes"
-        android:name="com.example.icm_project.ui.notes.NotesFragment"
+        android:name="com.example.ICM_Project.ui.notes.NotesFragment"
         android:label="Notes"
         tools:layout="@layout/fragment_notes" />
 

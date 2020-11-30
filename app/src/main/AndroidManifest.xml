@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.icm_project">
+    package="com.example.ICM_Project">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ICM_Project">
         <activity
-            android:name=".Welcome"
+            android:name="com.example.ICM_Project.Welcome"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -18,10 +18,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.calendar.addActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.ICM_Project.ui.calendar.addActivity"></activity>
+        <activity android:name="com.example.ICM_Project.MainActivity">
         </activity>
-        <activity android:name=".ui.login.Login"></activity>
+        <activity android:name="com.example.ICM_Project.ui.login.Login"></activity>
     </application>
     <uses-permission
         android:name="android.permission.READ_CALENDAR">

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PomodoroUA</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Temporizador</string>
+    <!-- bottom_nav_menu -->
+    <string name="title_profile">Perfil</string>
+    <string name="title_timer">Temporizador</string>
+    <string name="title_tasks">Tarefas</string>
     <string name="title_calendar">Calendário</string>
+
     <string name="upcoming_text">Próximas atividades: </string>
     <string name="subjects_text">"Cadeiras: "</string>
     <string name="timer_tv">Temporizador</string>

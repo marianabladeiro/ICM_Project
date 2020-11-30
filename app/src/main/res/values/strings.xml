@@ -1,8 +1,13 @@
 <resources>
-    <string name="app_name">PomodoroUA</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Timer</string>
+    <string name="app_name" translatable="false">PomodoroUA</string>
+
+    <!-- bottom_nav_menu -->
+    <string name="title_profile">Profile</string>
+    <string name="title_home" translatable="false">Dashboard</string>
+    <string name="title_timer">Timer</string>
+    <string name="title_tasks">Tasks</string>
     <string name="title_calendar">Calendar</string>
+
     <string name="upcoming_text">Upcoming activities: </string>
     <string name="subjects_text">"Your subjects: "</string>
     <string name="timer_tv">Timer</string>
@@ -61,4 +66,5 @@
     <string name="degreeProfile">Degree:</string>
     <string name="personal_information">Personal Information</string>
     <string name="statistics">Statistics</string>
+
 </resources>
